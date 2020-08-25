@@ -4,3 +4,8 @@ object wollok {
 		return 'I am Wol   z loktastic!'
 	}
 }
+
+
+object nomedicuanta(){
+	
+}
